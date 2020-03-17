@@ -105,7 +105,7 @@ public class MadLibs {
         // it will be NOT  10 + 0 = 10
         //  NOT 10 + 1 = 11
         //but --> YES 10 + 2 = 12
-        randomNums = " not " +numberHolder[0]+ ", not" +numberHolder[1]+ ", but" + numberHolder[2];
+        randomNums = " not " +numberHolder[0]+ ", not " +numberHolder[1]+ ", but " + numberHolder[2];
     }
 
     // print instructions
@@ -158,12 +158,12 @@ public class MadLibs {
                             + getNoun3() + ".";
                 } else {
                     story = " Amanada and her friend "
-                            + getName() + " went to the zoo last summer" + " they saw a huge "
+                            + getName() + " went to the zoo last summer " + " they saw a huge "
                             + getNoun1() + " and a little tiny "
                             + getNoun2() + " that nigth they decided to climb "
                             + getAdverb() + " into the "
-                            + getNoun3() + " to get a closer look " + "the zoo was"
-                            + getAdjective1() + "  but the didn't care " + " until..."
+                            + getNoun3() + " to get a closer look " + " the zoo was "
+                            + getAdjective1() + "  but the didn't care " + " until... "
                             + getRandomNums() + ". "
                             + getAdjective2() + " apes yelled in their faces, making " + " Amanda and "
                             + getName() + " sprint all the way back home ";
@@ -185,7 +185,7 @@ public class MadLibs {
         putTogetherTheStory();
         System.out.println(getStory());
 
-    }
+    }   
     public static void main(String[] args) {
 
         //todocode application here
