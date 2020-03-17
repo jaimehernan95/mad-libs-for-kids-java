@@ -1,19 +1,19 @@
 # mad-libs-for-kids-java
 # welcome to the Madlibs Game. If you type inwords, we will give you an story. Start bye typing in a name
- ** give me a noun! **
- 1. Hellen
-** give me a noun! **
-2. Michaela
-** I need an adjective! **
-3. small
-** I need another adjective! **
-4. big
-** give me another noun! **
-5. Sandra
-** Please I need an Adverb **
-6. large
-** give me the last noun! **
-7. Charles
+1.** give me a noun! **
+ . Hellen
+ 2.** give me a noun! **
+ Michaela
+ 3.** I need an adjective! **
+ small
+ 4. ** I need another adjective! **
+ big
+ 5 .** give me another noun! **
+Sandra
+6. ** Please I need an Adverb **
+large
+7. ** give me the last noun! **
+Charles
 
 <img width= "964" alt= "mad libs" src="https://github.com/jaimehernan95/mad-libs-for-kids-java/blob/master/images/mad1.png">
 
